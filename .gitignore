@@ -1,0 +1,6 @@
+.idea
+__pycache__
+/tree/__pycache__/
+file/__pycache__/
+poetry.lock
+pyproject.toml
